@@ -13,7 +13,7 @@ public class ARC {
 
     /**
      * @param args the command line arguments
-     * por que te rallatis
+     * 
      */
     public static void main(String[] args) {
         // TODO code application logic here
